@@ -9,6 +9,7 @@
  *
  * Return: Nothing
  */
+
 void bubble_sort(int *array, size_t size)
 {
 	int flag = 1, tmp = 0;
